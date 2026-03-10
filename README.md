@@ -11,3 +11,11 @@
 - 🔄 Power Query
 - 📊 Power Pivot
 - 🧮 Excel
+
+
+
+
+
+# Primer Code de python:
+- x = "Contactame"
+- print(x)
