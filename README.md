@@ -32,12 +32,8 @@ Me gusta aprender nuevas tecnologías y siempre busco mejorar mis habilidades.
 
 ## 📫 Contacto
 - Correo: luiscarlosfriastorres1@gmail.com 
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tuusuario)  
-- GitHub: [github.com/Luis_Frias ;](https://github.com/tuusuario)  
+- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luiscarlosfriastorres1-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Luis_Frias" />
+</p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
